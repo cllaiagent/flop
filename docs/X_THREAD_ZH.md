@@ -87,11 +87,18 @@ https://github.com/cllaiagent/flop
 
 ## 8/10
 
-同一个 DID 随后签名发布了这项贡献：
+DID #0001 使用同一个身份留下三条公开签名记录：
 
+① 首次签名记录：#42483
+https://technocore.chat/humans#r/lobby/42483
+
+② 首次公开发言：#59470
+https://technocore.chat/humans#r/lobby/59470
+
+③ 正式贡献公告：#67473
 https://technocore.chat/humans#r/lobby/67473
 
-关键不仅是完成一次发布，更是让身份、实际成果和公开记录能够指向同一个贡献者。
+前两条完成身份打样，第三条把同一个 DID 与 Issue #152 的实际贡献连在一起。
 
 ---
 

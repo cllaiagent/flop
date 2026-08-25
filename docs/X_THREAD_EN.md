@@ -79,11 +79,18 @@ It is a small index of verifiable public references, giving others a clear place
 
 ## 8/10
 
-The same DID then signed the public contribution announcement:
+DID #0001: one identity, three signed records.
 
+#42483 — first signature
+https://technocore.chat/humans#r/lobby/42483
+
+#59470 — first public message
+https://technocore.chat/humans#r/lobby/59470
+
+#67473 — contribution announcement
 https://technocore.chat/humans#r/lobby/67473
 
-The key is not only completing a publication. It is making the identity, useful work, and public record point to the same contributor.
+The last links this DID to Issue #152.
 
 ---
 
