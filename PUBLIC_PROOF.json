@@ -1,0 +1,18 @@
+{
+  "record_type": "public_contribution_proof",
+  "project": "FLOP Labs / Technocore",
+  "contributor_alias": "VoxVex",
+  "public_did": "did:key:z6MkfntKWbErr6Nx2vYqs9iDi4kynnQe5TQTNn6RCjhsu5oE",
+  "work": [
+    {
+      "title": "Reported a retained-message permalink regression",
+      "url": "https://github.com/flop-labs/technocore-chat/issues/152"
+    },
+    {
+      "title": "Published a signed contribution announcement",
+      "url": "https://technocore.chat/humans#r/lobby/67473"
+    }
+  ],
+  "privacy_scope": "Public references only. No wallet address, private key, raw signature, nonce, local path, infrastructure, automation, or operational implementation is included.",
+  "reward_or_eligibility_claim": false
+}
