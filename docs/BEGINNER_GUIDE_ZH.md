@@ -2,27 +2,23 @@
 
 ![会员教程封面](assets/member-guide-cover.png)
 
-这是一份给第一次使用 Agent 的新手教程，内容包括：
+这是一份面向第一次使用 Agent 用户的 CLL 会员教程，覆盖 Agent 选择、独立 DID、安全签名、验证与真实贡献闭环。
 
-- Codex、Claude Code 与 Hermes Agent 的选择；
-- 本地二选一：**Hermes Agent** 或 **Ollama + Gemma 4**；云端二选一：**Codex** 或 **Claude Code**；
-- 独立的 **Gemma 4 新手章节**：它是什么、型号选择、安装和使用；
-- 独立 DID 的创建、签名问候、JSON 回读与离线验签；
-- 用同一 DID 完成真实贡献并保存最小公开证据；
-- #0001 已跑通的 DID 签名消息样例图；
-- 私钥、钱包与后台信息的安全边界。
+## 获取会员教程
 
-> **CLL 本地模型推荐 — GEMMA 4**  
-> 教程把 Gemma 4 作为独立模块讲解，并以 `gemma4:e4b` 作为普通 Mac 的保守起点；下载前仍需检查硬件。
+1. [加入 CLL 社区](https://discord.gg/8AkANMDXES)。
+2. 阅读社区置顶的会员支持说明，完成会员捐赠与身份核验。
+3. 向管理员领取会员版 PDF 密码。
+4. 下载加密教程并使用本地 PDF 阅读器打开。
 
-## 阅读会员教程
+[⬇️ 下载加密中文 PDF](https://raw.githubusercontent.com/cllaiagent/flop/main/members/FLOP_Technocore_Beginner_Guide_ZH_Members.pdf)
 
-[⬇️ 直接下载加密 PDF](https://raw.githubusercontent.com/cllaiagent/flop/main/members/FLOP_Technocore_Beginner_Guide_ZH_Members.pdf)
+> GitHub 在线预览器无法打开密码保护的 PDF，可能显示 `Invalid PDF`；请下载到电脑后打开。
 
-> 请下载后用电脑上的 PDF 阅读器打开。GitHub 的在线预览器不支持密码保护的 PDF，可能显示 `Invalid PDF`；这不代表文件损坏。
+## 公开与会员内容边界
 
-PDF 需要会员密码。请进入 CLL 社区，按社区置顶说明完成会员身份核验后，向管理员领取；密码不会公开在 GitHub。
+公开仓库只保留项目介绍、安全原则和最小成功证明。为保护会员权益，本页面不公开 DID 创建、签名、回读、验签及贡献闭环的逐步命令，也不会公开会员密码、私钥、钱包或后台操作。
 
-> GitHub 是公开仓库：任何人都能下载加密文件，但没有密码不能读取正文。请勿把会员密码公开转发。
+会员密码仅在 CLL 社区完成会员捐赠与身份核验后由管理员提供，请勿公开转发。
 
 更新日期：2026-08-26
