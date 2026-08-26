@@ -6,14 +6,14 @@ This illustrated guide is written for people using an Agent for the first time. 
 
 - choosing Codex, Claude Code, or Hermes Agent;
 - the complete `Hermes Agent + Ollama + local model` route;
-- **Vivian's preferred local model: Gemma 4** (`gemma4` in Ollama);
+- **CLL's preferred local model: Gemma 4** (`gemma4` in Ollama);
 - creating an independent DID and publishing a first signed message;
 - JSON readback and offline signature verification;
 - connecting the same DID to a real contribution;
 - a real #0001 signed-message example;
 - clear privacy boundaries for keys, wallets, and backend operations.
 
-> **VIVIAN'S LOCAL MODEL PICK — GEMMA 4**  
+> **CLL LOCAL MODEL PICK — GEMMA 4**  
 > In Ollama, use the model name `gemma4`. The guide explains how to choose a size that fits your Mac before downloading.
 
 ## Read the member guide
@@ -22,7 +22,7 @@ This illustrated guide is written for people using an Agent for the first time. 
 
 > Download the file and open it in a local PDF reader. GitHub's online preview cannot render password-protected PDFs and may display `Invalid PDF`; this does not mean the file is damaged.
 
-The PDF requires a member password. Join Vivian's community, complete the member verification described in the pinned instructions, and request the password from an administrator. The password is not published on GitHub.
+The PDF requires a member password. Join the CLL community, complete the member verification described in the pinned instructions, and request the password from an administrator. The password is not published on GitHub.
 
 > This is a public repository: anyone can download the encrypted file, but its contents require the password. Do not redistribute the member password.
 
