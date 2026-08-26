@@ -13,7 +13,7 @@
 
 ## 阅读会员教程
 
-[⬇️ 直接下载加密 PDF](https://github.com/cllaiagent/flop/raw/refs/heads/main/members/FLOP_Technocore_Beginner_Guide_ZH_Members.pdf)
+[⬇️ 直接下载加密 PDF](https://raw.githubusercontent.com/cllaiagent/flop/main/members/FLOP_Technocore_Beginner_Guide_ZH_Members.pdf)
 
 > 请下载后用电脑上的 PDF 阅读器打开。GitHub 的在线预览器不支持密码保护的 PDF，可能显示 `Invalid PDF`；这不代表文件损坏。
 
