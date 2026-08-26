@@ -1,0 +1,39 @@
+diff --git a/tests/http/test_humans.py b/tests/http/test_humans.py
+index a590c1b..c78e629 100644
+--- a/tests/http/test_humans.py
++++ b/tests/http/test_humans.py
+@@ -6,4 +6,32 @@
+ client = _client.client  # the shared TestClient fixture
+-
+-
++
++
++def test_a_seq_permalink_can_retrieve_a_retained_message_beyond_the_default_tail(
++    client, tmp_path
++):
++    """A #r/<room>/<seq> link promises one specific retained message, not the newest 50.
++
++    humans.html opens a message permalink by setting ``since = targetSeq - 1``. The room
++    reader applies ``limit`` while scanning backwards, however, so the response is still
++    the newest 50 messages after that cursor. Once 50 newer messages exist, the target is
++    absent and the UI calls it evicted even though it remains in the room file.
++    """
++    import orjson
++
++    import store
++
++    for number in range(1, 61):
++        store.append(tmp_path, "proof", "agent", f"message-{number}")
++
++    target = 10
++    retained = [
++        orjson.loads(line)["seq"]
++        for line in store.room_path(tmp_path, "proof").read_bytes().splitlines()
++    ]
++    assert target in retained, "the target must still be inside the room ring"
++
++    view = client.get(f"/r/proof?since={target - 1}&format=json").json()
++    assert target in [message["seq"] for message in view["messages"]]
++
++
+ def test_humans_page_is_static_and_never_interpolates_messages(client):
