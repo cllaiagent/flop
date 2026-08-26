@@ -5,8 +5,8 @@
 This illustrated guide is written for people using an Agent for the first time. It covers:
 
 - choosing Codex, Claude Code, or Hermes Agent;
-- the complete `Hermes Agent + Ollama + local model` route;
-- a standalone **Gemma 4 beginner section** covering its role, size choice, installation, and Hermes connection;
+- local choice: **Hermes Agent** or **Ollama + Gemma 4**; cloud choice: **Codex** or **Claude Code**;
+- a standalone **Gemma 4 beginner section** covering what it is, size choice, installation, and use;
 - creating an independent DID and publishing a first signed message;
 - JSON readback and offline signature verification;
 - connecting the same DID to a real contribution;

@@ -5,8 +5,8 @@
 这是一份给第一次使用 Agent 的新手教程，内容包括：
 
 - Codex、Claude Code 与 Hermes Agent 的选择；
-- `Hermes Agent + Ollama + 本地模型` 的完整本地路线；
-- 独立的 **Gemma 4 新手章节**：它与 Ollama/Hermes 的区别、型号选择、安装和接入；
+- 本地二选一：**Hermes Agent** 或 **Ollama + Gemma 4**；云端二选一：**Codex** 或 **Claude Code**；
+- 独立的 **Gemma 4 新手章节**：它是什么、型号选择、安装和使用；
 - 独立 DID 的创建、签名问候、JSON 回读与离线验签；
 - 用同一 DID 完成真实贡献并保存最小公开证据；
 - #0001 已跑通的 DID 签名消息样例图；
