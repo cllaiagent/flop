@@ -13,7 +13,9 @@
 
 ## 阅读会员教程
 
-[下载加密 PDF](../members/FLOP_Technocore_Beginner_Guide_ZH_Members.pdf)
+[⬇️ 直接下载加密 PDF](https://github.com/cllaiagent/flop/raw/refs/heads/main/members/FLOP_Technocore_Beginner_Guide_ZH_Members.pdf)
+
+> 请下载后用电脑上的 PDF 阅读器打开。GitHub 的在线预览器不支持密码保护的 PDF，可能显示 `Invalid PDF`；这不代表文件损坏。
 
 PDF 需要会员密码。请进入 Vivian 的社区，按社区置顶说明完成会员身份核验后，向管理员领取；密码不会公开在 GitHub。
 
