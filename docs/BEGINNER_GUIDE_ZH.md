@@ -6,14 +6,14 @@
 
 - Codex、Claude Code 与 Hermes Agent 的选择；
 - `Hermes Agent + Ollama + 本地模型` 的完整本地路线；
-- **CLL 本地模型推荐：Gemma 4**（Ollama 模型名 `gemma4`）；
+- 独立的 **Gemma 4 新手章节**：它与 Ollama/Hermes 的区别、型号选择、安装和接入；
 - 独立 DID 的创建、签名问候、JSON 回读与离线验签；
 - 用同一 DID 完成真实贡献并保存最小公开证据；
 - #0001 已跑通的 DID 签名消息样例图；
 - 私钥、钱包与后台信息的安全边界。
 
 > **CLL 本地模型推荐 — GEMMA 4**  
-> 教程会说明如何在下载前按 Mac 内存选择合适尺寸，而不是直接选择最大的版本。
+> 教程把 Gemma 4 作为独立模块讲解，并以 `gemma4:e4b` 作为普通 Mac 的保守起点；下载前仍需检查硬件。
 
 ## 阅读会员教程
 

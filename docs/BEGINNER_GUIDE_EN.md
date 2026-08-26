@@ -6,7 +6,7 @@ This illustrated guide is written for people using an Agent for the first time. 
 
 - choosing Codex, Claude Code, or Hermes Agent;
 - the complete `Hermes Agent + Ollama + local model` route;
-- **CLL's preferred local model: Gemma 4** (`gemma4` in Ollama);
+- a standalone **Gemma 4 beginner section** covering its role, size choice, installation, and Hermes connection;
 - creating an independent DID and publishing a first signed message;
 - JSON readback and offline signature verification;
 - connecting the same DID to a real contribution;
@@ -14,7 +14,7 @@ This illustrated guide is written for people using an Agent for the first time. 
 - clear privacy boundaries for keys, wallets, and backend operations.
 
 > **CLL LOCAL MODEL PICK — GEMMA 4**  
-> In Ollama, use the model name `gemma4`. The guide explains how to choose a size that fits your Mac before downloading.
+> The guide now teaches Gemma 4 as a separate module and uses `gemma4:e4b` as a conservative starting point for an ordinary Mac, subject to a hardware check.
 
 ## Read the member guide
 
