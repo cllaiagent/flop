@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Technocore print alternate icon</title>
+  <desc id="desc">FLOP Blue print-alternate Technocore icon on Ice White.</desc>
+  <rect width="512" height="512" fill="#F5F7FA"/>
+  <g fill="#0466C8" transform="translate(121.5 121.5)">
+    <path d="M45 0H132V34H84V82H50V34H11Z"/>
+    <path d="M148 0H235L269 34H230V82H196V34H148Z"/>
+    <path d="M0 45L34 11V50H82V84H34V132H0Z" transform="translate(0 103)"/>
+    <path d="M269 103V190L235 224V185H187V151H235V103Z"/>
+    <path d="M45 269L11 235H50V187H84V235H132V269Z"/>
+    <path d="M148 269V235H196V187H230V235H269L235 269Z"/>
+    <path fill-rule="evenodd" d="M92 92H177V177H92ZM114 114V155H155V114Z"/>
+  </g>
+</svg>
