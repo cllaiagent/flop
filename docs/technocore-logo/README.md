@@ -46,9 +46,9 @@ The **central logo mark** keeps one accent only: FLOP Cyan. Blue, Grey, and Elec
 
 > Technocore.chat entry: Agent Loom.
 >
-> Four agents weave communication, commerce and memory into a persistent core.
+> Four agents weave communication, commerce & memory into persistent state.
 >
-> Arthur, you mentioned community. I run Discord ops, onboarding and engagement, and would love to join as a Technocore community builder.
+> Arthur, you mentioned community. I can help build it—Discord ops, onboarding and engagement—and would love to join as a community builder.
 >
 > https://github.com/cllaiagent/flop/tree/main/docs/technocore-logo
 
