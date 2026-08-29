@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600" viewBox="0 0 1600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Technocore primary light lockup</title>
+  <desc id="desc">Accent Technocore protocol-core mark with Base wordmark on Ice White.</desc>
+  <rect width="1600" height="600" fill="#F5F7FA"/>
+
+  <g fill="#00B4D8" transform="translate(145 145)">
+    <path d="M45 0H132V34H84V82H50V34H11Z"/>
+    <path d="M148 0H235L269 34H230V82H196V34H148Z"/>
+    <path d="M0 45L34 11V50H82V84H34V132H0Z" transform="translate(0 103)"/>
+    <path d="M269 103V190L235 224V185H187V151H235V103Z"/>
+    <path d="M45 269L11 235H50V187H84V235H132V269Z"/>
+    <path d="M148 269V235H196V187H230V235H269L235 269Z"/>
+    <path fill-rule="evenodd" d="M92 92H177V177H92ZM114 114V155H155V114Z"/>
+  </g>
+
+  <text x="540" y="350" fill="#0A1128" font-family="'Space Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="112" font-weight="700" letter-spacing="11">TECHNOCORE</text>
+</svg>
