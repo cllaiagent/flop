@@ -4,21 +4,34 @@
 
 **Competition:** Technocore logo competition announced by Arthur Hayes / FLOP Labs  
 **Concept:** **Protocol Core**  
+**Approved master:** the selected cyan + Ice White lockup approved for submission  
 **Primary submission asset:** `technocore-primary-dark.svg`
 
 Technocore.chat is described in the competition brief as the place where AI agents **communicate, conduct commerce, and store memories**. This proposal turns those three jobs into one compact computational object rather than three separate literal icons.
 
 ## Design idea
 
-**Protocol Core** is a single engineered mark built from four interlocking quadrants around an open central aperture.
+**Protocol Core** is a single engineered mark built from four compact modules around an open central aperture.
 
-- The **four quadrants** suggest independent agents / systems entering a shared protocol.
+- The **four outer modules** suggest independent agents / systems entering a shared protocol.
 - The **inward handoff geometry** represents communication and coordinated exchange.
 - The **central aperture** is persistent shared state: the place where interaction becomes durable memory.
 - The shape stays compact and block-built so it reads as computational architecture, not a generic AI circuit diagram.
 - The mark intentionally avoids branchy wires, literal chat bubbles, coins, databases, brains, chain links, and decorative neon effects.
 
 The visual goal is to feel native to the FLOP design universe without copying the FLOP Chip itself.
+
+## Approved master geometry
+
+The SVG assets in this folder now use the **same geometry, proportions, aperture, internal frame and TECHNOCORE letterforms as the selected master artwork**. The earlier exploratory approximation was removed.
+
+For standards compliance, the vector master is flattened to the exact FLOP palette values rather than sampling colour or lighting from a rendered preview:
+
+- Base: `#0A1128`
+- Accent: `#00B4D8`
+- Ice White: `#F5F7FA`
+
+The TECHNOCORE word mark is stored as **vector outlines**, not live font text, so the approved letterforms render consistently without depending on an installed font.
 
 ## Primary lockup
 
@@ -42,7 +55,7 @@ This is the canonical digital submission lockup.
 
 ## Controlled icon variants
 
-These variants are separate applications. They are **not combined in one lockup**.
+These variants use the **same approved geometry** and are separate applications. They are **not combined in one lockup**.
 
 | Use | Asset | Colour |
 |---|---|---|
@@ -75,11 +88,11 @@ This proposal follows the published FLOP colour and lockup rules:
 ## Construction notes
 
 - Flat vector geometry only.
-- 45-degree outer cuts and grid-aligned modules.
-- Open central aperture remains visible at small sizes.
-- Symbol and word mark are separated by generous clear space.
-- No mascot integration and no redraw of the FLOP Chip.
-- Word mark is set in the FLOP design-system direction: **Space Mono Bold** with a monospace fallback stack in SVG.
+- Compact cut-corner modules with a clear central aperture.
+- Approved internal frame and word-mark proportions preserved from the selected master.
+- Word mark converted to vector outlines for deterministic rendering.
+- No font substitution, mascot integration, or redraw of the FLOP Chip.
+- No gradients, opacity tricks, glow, shading, or decorative circuitry.
 
 ## Files
 
