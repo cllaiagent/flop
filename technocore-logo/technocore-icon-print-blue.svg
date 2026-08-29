@@ -1,14 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Technocore print alternate icon</title>
-  <desc id="desc">FLOP Blue print-alternate Technocore icon on Ice White.</desc>
-  <rect width="512" height="512" fill="#F5F7FA"/>
-  <g fill="#0466C8" transform="translate(121.5 121.5)">
-    <path d="M45 0H132V34H84V82H50V34H11Z"/>
-    <path d="M148 0H235L269 34H230V82H196V34H148Z"/>
-    <path d="M0 45L34 11V50H82V84H34V132H0Z" transform="translate(0 103)"/>
-    <path d="M269 103V190L235 224V185H187V151H235V103Z"/>
-    <path d="M45 269L11 235H50V187H84V235H132V269Z"/>
-    <path d="M148 269V235H196V187H230V235H269L235 269Z"/>
-    <path fill-rule="evenodd" d="M92 92H177V177H92ZM114 114V155H155V114Z"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="315" height="305" viewBox="0 0 315 305" role="img" aria-labelledby="title">
+  <title id="title">Technocore approved icon — FLOP Blue print alternate</title>
+  <path d="M 155 19 L 74 19 L 25 68 L 25 147 L 71 148 L 82 137 L 82 75 L 145 74 L 155 64 Z M 164 20 L 164 63 L 174 74 L 236 74 L 238 76 L 238 136 L 249 148 L 294 148 L 295 69 L 246 19 Z M 90 82 L 90 134 L 112 152 L 90 170 L 90 221 L 143 221 L 160 200 L 178 221 L 230 221 L 230 170 L 209 153 L 230 134 L 230 82 L 178 82 L 161 103 L 143 82 Z M 124 117 L 195 116 L 196 186 L 194 188 L 126 188 L 124 186 Z M 25 157 L 25 235 L 73 284 L 155 284 L 155 239 L 146 229 L 83 229 L 82 168 L 72 157 Z M 294 156 L 249 156 L 238 167 L 238 227 L 236 229 L 174 229 L 164 240 L 164 283 L 247 284 L 294 236 Z" fill="#0466C8" fill-rule="evenodd"/>
 </svg>
